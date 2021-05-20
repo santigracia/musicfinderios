@@ -7,12 +7,14 @@
 //
 
 import UIKit
+import Mixpanel
 
-class ViewController: UIViewController {
+class mainVC : UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        
     }
+    
 }
-

@@ -1,0 +1,6 @@
+framework module Pods_musicfinder {
+  umbrella header "Pods-musicfinder-umbrella.h"
+
+  export *
+  module * { export * }
+}

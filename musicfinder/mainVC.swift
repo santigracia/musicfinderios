@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import Mixpanel
 
 class mainVC : UIViewController {
 

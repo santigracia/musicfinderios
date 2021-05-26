@@ -8,7 +8,6 @@
 
 import Foundation
 import UIKit
-import Mixpanel
 
 class loginVC : UIViewController {
     
